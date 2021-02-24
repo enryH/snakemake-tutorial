@@ -1,6 +1,8 @@
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - numpy
   - jupyter-server-proxy
   - code-server >=3.2
+  - snakemake

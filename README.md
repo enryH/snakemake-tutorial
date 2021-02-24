@@ -1,8 +1,8 @@
-# VS Code on Binder
+# Snakemake Tutorial in VSCode on binder
 
-[![PyPI](https://img.shields.io/pypi/v/jupyter-vscode-proxy)](https://pypi.org/project/jupyter-vscode-proxy/)
-[![Install with conda](https://anaconda.org/conda-forge/jupyter-vscode-proxy/badges/installer/conda.svg)](https://github.com/conda-forge/jupyter-vscode-proxy-feedstock)
+Use this [offical snakemake tutorial](https://github.com/snakemake/snakemake-tutorial-data) in VSCode running on binder.
 
-VS Code on Binder, because sometimes you need a real editor.
+Start: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enryH/snakemake-tutorial/snakemake-tutorial?urlpath=lab)
 
-Try it: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/betatim/vscode-binder/master?urlpath=lab)
+
+> Adapt path by adding `data` at the right places.
