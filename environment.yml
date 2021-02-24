@@ -1,6 +1,7 @@
 channels:
   - conda-forge
   - bioconda
+  - anaconda
 dependencies:
   - numpy
   - jupyter-server-proxy
