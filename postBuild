@@ -11,4 +11,5 @@ code-server --install-extension ms-python.python
 pip install -e.
 
 # Install snakemake-tutorial
-git clone https://github.com/snakemake/snakemake-tutorial-data.git
+# git clone https://github.com/snakemake/snakemake-tutorial-data.git
+git clone https://github.com/enryH/snakemake-tutorial-data.git
